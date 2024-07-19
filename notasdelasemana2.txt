@@ -1,0 +1,30 @@
+15/07
+   REPASO
+   - Realizamos un repaso de como se usa los comandos en VSC para subir en nuestro repositorio
+   - Creamos una página en html llamado "el mate" en VSC
+   - También realizamos otro repositorio llamado "html-basico"
+
+   16/07
+   - El profe nos dio consejos de que tipo de computadora comprar para en el futuro
+   - Realizamos otro "repositorio javascript-basico", que estuvimos haciendo codigos
+    en VSC para luego subir en GitHub.
+   - Aprendimos como clonar nuestros proyectos
+
+17/07
+   - El profe nos mostro proyectos de sus alumnos de otra facultad
+   - Desarrollamos inspecciones en páginas.
+   - Visitamos un página llamado "Status Code" que nos muestra donde
+    podemos encontrar el error en nuestro codigo
+   - Aprendimos como mover codigo y codigo bloqueante.
+   - Tambien aprendimos que 404 signfica "página no encontrada"
+   - y "alert" es una ventana de emergente
+   
+ 18/07
+   -Realizamos otro proyecto llamado "js-controles"
+   -Realizamos otro html un formulario como ejemplo de 
+    como es el diseño y aprendiendo las etiquetas.
+
+ 19/07
+   -Se realizo consultas con el profe
+   -Realimos otro repositorio para subir nuestras bitacoras
+   -Aprendimos que DOM "Modelo de objeto de documento"
