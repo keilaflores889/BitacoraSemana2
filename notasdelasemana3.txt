@@ -1,0 +1,34 @@
+22/07
+    -continuación del proyecto "js-controles"
+    -Aprendimos como obtener valores
+    -También como manejar elemntos
+    -Agregamos un campo más llamado "Dirección" y un "alert();" a nuestra página
+     y subimos los cambios en nuestro repositorio.
+23/07
+   -Aprendimos "bootstrap",es un frameword "marco de trabajo", conjuntos de reglas y conocimientos probados
+   -Introducción al bootstrap
+   -CSS, es estilo en cascadas
+   -"link" es para css para conectar con la carpeta
+   -"scr" es para javascript
+   -"padding" modifica el espacio interno
+   -margin el margen externo
+   -"CSS es para dar estilo a nuestro html
+   -El profe nos enseña una página "bootstrap" que nos ayuda a poner estilos a nuestra pagina
+    y mostrandonos comandos para utilizarlo
+24/07
+   -Realizamos instalación de bootstrap
+   -Conocimos los containers de booststrap y los tipos
+   -"div" es divisor, funciona como cajitas
+   -El profe nos enseña una página llamado "color picker", para crear nuestra paleta de colores
+25/07
+   -El profe nos muestra un trabajo de ejemplo
+      referente al tema   
+   -Repaso de lo habiamos dado en la clase anterior
+   -Aprendimos como creamos los contenedores en VSC de
+    distintas medidas
+26/07
+    -El profe nos muestra como hacer un ejemplo de solicitud en ChatGPT
+    -"GRID" es red
+    -El profe nos explica como es el tema de la tesis.
+    -Creamos otro proyecto llamado "bootstrap-forms"
+    -Formulario, sirve para registrar algo
