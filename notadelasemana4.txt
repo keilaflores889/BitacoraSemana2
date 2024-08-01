@@ -1,0 +1,33 @@
+29/07
+    -Introducción a jquery
+    -"jquery" ayuda a acortar códigos
+    -Creamos otro proyecto "introducción-jquery"
+    -(´´)comilla especial de javascript
+    -"$('txtNombre')".val() //para traer el id
+    -const nombre= $('#txtNombre').val(); //Recuperar por id
+    -$('#txtNombre').val('otro fulano'); //cambiar/asignar
+
+30/07
+    -Continuación del proyecto de la clase anterior
+    -"id", es la cédula de identificación de elementos
+    -setTimeoud(), es una función de alto nivel 
+    -Agregamos un alert y también los bordes se ponen en color rojo
+       para cuando un campo esta sin completar.
+
+31/07
+   -El profe nos muestra un pdf de módulos de diferentes temas
+     que podemor ir viendo para realizar en nuestra tesis.
+   -Nos muestra también como validar inputs.
+   -"Ransomware", daña nuestra computadora afectado todo lo que contiene
+   -"API" es un interfaz de programación de aplicaciones
+    postman API descargar
+   - Luego creamos un nuevo proyecto llamado "intro-api"
+   - También aprendimos que "fetch" permite comunicarnos con el servidor, es el 
+      que nos promete cosas
+   -json, es un formato de transferencia de información
+
+1/08
+  Expo Carrera
+
+2/08
+  Feriado
